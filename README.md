@@ -22,3 +22,6 @@ Can be found [Link to course](https://www.coursera.org/specializations/mathemati
 ### Course-4: Numerical Methods for Engineers - TODO
 
 ### Course-5: Mathematics for Engineers: The Capstone Course - TODO
+
+
+- TODO when done, put pdf here where my own notes included
